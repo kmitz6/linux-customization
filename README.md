@@ -8,4 +8,5 @@ Random code for easier life in linux. Repo features:
 
 ## prompt and aliases
 Navigate to directory where downloaded code is located and exectute following command:
+
 cat prompt-and-aliases >> ~/.bashrc
