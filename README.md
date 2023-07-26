@@ -1,6 +1,6 @@
 # customization code for linux
 
-Random code for easier life in linux. Repo features:
+Random code for easier life in linux. Repo contains:
   - Bash prompt with timestamp and working directory, no hostname or username shown.
   - Daily use aliases
 
